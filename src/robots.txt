@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://AllaniSaikumar.github.io/sitemap_index.xml
